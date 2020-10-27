@@ -1,8 +1,5 @@
 //VCOM AI, huge credits to Genesis, without VCOM this campaign would be so much less
 
-// hehe testing
-
-
 //Used to control updates and persistent save compatability. When these numbers go up, that section will be reinitialized on load if required. (ie leave them alone)
 OTML_economyVersion = 1;
 OTML_natoVersion = 1;
